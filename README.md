@@ -38,3 +38,17 @@ Install dependencies (if needed):
 ```bash
 pip install numpy scipy pandas matplotlib
 python pk_model.py
+## Usage
+
+To run the simulation:
+```bash
+python pk_model.py
+Outputs are saved to the output/ folder:
+
+pk_model_results.csv
+
+pk_model_plot.png
+
+Author
+Parth Ingale
+M.S. Bioengineering, Northeastern University
